@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters.command import Command
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token="7038223835:AAGA6TetinasSkaVKP8PYzNvppuCdc3g2b0")
+bot = Bot(token="123455:asdajhsfbihbwoefn")
 dp = Dispatcher()
 
 id1 = "enter id1 as int"
