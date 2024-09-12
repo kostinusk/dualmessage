@@ -14,7 +14,7 @@ id2 = "enter id2 as int"
 @dp.message(Command("start"))
 async def cmd_start(message: types.Message):
     print(message.from_user.username)
-    await message.answer("asdasd")
+    await message.answer("бот активирован для вас")
 
 
 @dp.message()
